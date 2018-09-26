@@ -1,4 +1,4 @@
-def salva_transacao(preco, cartao_credito, descricao):
+def salva_transacao(preco: int, cartao_credito: int, descricao: str):
     """Abre o arquivo 'transacoes.txt' para escrever as informações das transações para enviar para o banco
 
     formato por linha: 0000090                 1234567890123456                        Pastel
