@@ -13,7 +13,7 @@ This Code Comments assumes you know some basic Python programming. If you are a 
 Este código comentado assume que você tenha algum conhecimento básico sobre a linguagem Python. Se você é um iniciante e gostaria de aprender programação de computadores, existe um livro grátis (free) online chamado "Invent Your Own Computer Games with Python" disponível no site http://inventwithpython.com
 
 The Code Comments programs make references to sections of this book throughout the program. This Code Comments can also teach you how to use the Pygame library to make your own games with graphics, animation, and sound. You can download Pygame from http://pygame.org and view its documentation at http://pygame.org/docs/
-Os programas dos Códigos Comentados fazem referência à seções deste livro em todo o programa. Estes Códigos Comentados também podem te ensinar  a como usar a biblioteca Pygame para fazer seus próprios games com gráficos, animações e sons. Vc pode fazer o download do Pygame no site: http://pygame.org e visualizar sua documentação em: http://pygame.org/docs/
+Os programas dos Códigos Comentados fazem referência à seções deste livro em _todo o programa. Estes Códigos Comentados também podem te ensinar  a como usar a biblioteca Pygame para fazer seus próprios games com gráficos, animações e sons. Vc pode fazer o download do Pygame no site: http://pygame.org e visualizar sua documentação em: http://pygame.org/docs/
 
 HOW TO PLAY SIMULATE:
 COMO JOGAR O SIMULATE:

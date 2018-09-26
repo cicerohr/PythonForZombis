@@ -16,8 +16,8 @@ while True:
         break
     else:
         cartao = eh_inteiro("Número do cartão de crédito: ")
-        preco = desconto_10(cardapio[escolha][1])               # desconto Fatec
-        if escolha == 3 and cardapio[escolha][0] == 'Pastel':   # desconto japa
+        preco = desconto_10(cardapio[escolha][1])  # desconto Fatec
+        if escolha == 3 and cardapio[escolha][0] == 'Pastel':  # desconto japa
             preco = desconto_50(cardapio[escolha][1])
         salva_transacao(preco, cartao, cardapio[escolha][0])
         print('=' * 30)

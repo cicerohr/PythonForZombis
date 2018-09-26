@@ -1,8 +1,10 @@
-def eh_inteiro(entrada):
+def eh_inteiro(entrada: str) -> int:
     """Verifica se o usuário digitou um número inteiro
 
     :param entrada: valor digitado pelo usuário
+    :type entrada: str
     :return: mensagem de erro ou a digitação do usuário
+    :rtype: int
     """
     while True:
         try:

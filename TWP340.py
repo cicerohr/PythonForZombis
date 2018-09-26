@@ -4,7 +4,7 @@ from string import punctuation      # Importa os caracteres especias (!"#$%&\'()
 
 arq = open('alice.txt')             # Abre o arquivo com o texto do livro "Alice’s Adventures in Wonderland"
 texto = arq.read()
-texto = texto.lower()               # Coloca todo o texto em letras minúsculas
+texto = texto.lower()               # Coloca _todo o texto em letras minúsculas
 for c in punctuation:
     texto = texto.replace(c, ' ')   # Substitui os caracteres especiais por espaço
 texto = texto.split()               # Retorna uma lista usando espaço como delimitador
