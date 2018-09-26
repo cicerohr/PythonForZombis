@@ -4,4 +4,3 @@
 cores = ['azul', 'amarelo', 'verde']
 for i in range(0, len(cores)):
     print(f'Índice {i} tem {cores[i]}.')
-
